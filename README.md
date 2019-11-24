@@ -4,7 +4,6 @@
 
 - [Dependency](#dependency)
 - [Usage](#usage)
-- [Contributing](#contributing)
 - [License](#license)
 
 ## Dependency
