@@ -1,5 +1,19 @@
-# Calculator
-支持表达式输入的无界面计算器
+# 支持表达式输入的计算器
 
-# 语言
+## Table of Contents
+
+- [Dependency](#dependency)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [License](#license)
+
+## Dependency
 c
+
+## Usage
+
+运行main.c
+
+## License
+
+MIT © Richard McRichface
